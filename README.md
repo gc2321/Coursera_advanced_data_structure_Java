@@ -6,6 +6,9 @@ How does Google Maps plan the best route for getting around town given current t
 Authored code:
 
 UCSDGraphs/roadgraph/MapGraph.java
+
 Breadth-first search (BFS)
+
 Dijkstra
+
 A*
